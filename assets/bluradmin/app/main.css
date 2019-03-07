@@ -15,8 +15,58 @@
       margin-right: 10px; }
 
 .closeable button {
-  color: #cbcbcb; }
-
+  color: #cbcbcb; 
+}
+body a{
+   color: #66bfff !important; 
+}
+.page-top{
+    background-color:#ffffff !important;
+}
+.al-sidebar{
+    background-color:#c8dbeb !important;
+}
+.al-sidebar-list-item.selected:not(.with-sub-menu) a.al-sidebar-list-link {
+    color:#fff !important;
+    background: #66bfff !important;
+}
+.enn-head{
+    color:#66bfff !important;
+    font-size: 28px !important;
+    line-height: 63px !important;
+    margin-left: 18px !important;
+}
+a.al-sidebar-list-link{
+    color:#000 !important;
+}
+.fc-head{
+   background: #66bfff !important; 
+}
+.al-user-profile{
+    width: 96px !important;
+    line-height: 41px !important;
+}
+a.collapse-menu-link{
+    display:none !important;
+}
+.al-msg-center li > a{
+    color: #66bfff !important;
+}
+.al-msg-center li > a .notification-ring{
+    border: 1px solid #67bfff !important;
+    top: -11px !important;
+    right: -14px !important;
+}
+.sidebar-hover-elem{
+    background: #66bfff !important;
+}
+.al-user-profile a{
+    color: #66bfff !important;
+    font-size: 15px !important;
+}
+.fa.fa-bell-o{
+    font-size:15px;
+}
 .bg-success {
   background-color: rgba(144, 185, 0, 0.85);
   color: #ffffff; }
@@ -3744,9 +3794,9 @@ th {
 #chartdiv1 {
   background: #3f3f4f;
   color:#ffffff;
-  width		: 100%;
-  height		: 500px;
-  font-size	: 11px;
+  width   : 100%;
+  height    : 500px;
+  font-size : 11px;
 }*/
 #map-lines {
   width: 100%;
